@@ -1,7 +1,5 @@
 # ADRQN
-Implementation of the paper:
-
-On Improving Deep Reinforcement Learning for POMDPs
+Implementation of the paper "On Improving Deep Reinforcement Learning for POMDPs"
 
 https://arxiv.org/abs/1704.07978
 
